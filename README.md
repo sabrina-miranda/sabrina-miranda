@@ -1,66 +1,62 @@
-## Olá! Eu sou a Sabrina Miranda
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23f78166&size=50&center=true&vCenter=true&height=60&width=800&lines=Olá!+Eu+sou+a+Sabrina+Miranda,;Seja+bem+vindo(a)+ao+meu+GitHub!" alt="Title"></img>
+</div>
 
 ###
-- 👩‍🎓 Graduada em Matemática e Graduando em Engenharia de Software
-- 💻 No momento focada em Desenvolvimento Front-End
+
+<div align="center">
+  <h3 margin-botom="20">Algumas Estatísticas</h3>
+
+   <a href="https://github.com/sabrina-miranda">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabrina-miranda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrina-miranda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sabrina-miranda&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabrina-miranda&theme=city_lights" height="160" alt="My GitHub Stats">
+</div>
+
+###
+
+<div align="center">
+   <a href="https://github.com/sabrina-miranda">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sabrina-miranda.sabrina-miranda&" />
+</div>
 
 ##
 
-### 🚀 Conhecimento nas tecnologias e ferramentas
-###
-
-<div align="left">
+<div align="center">
+  <h3 margin-botom="20">Conhecimento nas tecnologias e ferramentas</h3>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="30" width="42" alt="inkscape logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
 
-##
+<div align="center">
+  <h3>Estudando</h3>
 
-### 📚 Estudando
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo" />
-</div>
-
-#### Faculdade
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
 </div>
 
 ##
 
-### 📩 Contato
-###
+<div align="center">
+  <h3>Contato</h3>
 
-<div align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/sabrinamiranda-sm/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"    alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/sabrinamiranda-sm/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"    alt="linkedin logo" target="_blank"/>
   <a/>
-</div>
-
-##
-
-### 📈📊 Estatísticas do Github
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabrina-miranda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sabrina-miranda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sabrina-miranda&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sabrina-miranda.sabrina-miranda&"  />
+  
+  <a href="/">
+    <img src="https://img.shields.io/badge/-Portfolio-f78166?logo=flickr&style=for-the-badge" height="25" alt="Portfolio Sabrina Miranda">
+  </a>
 </div>
