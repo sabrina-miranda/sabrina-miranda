@@ -53,10 +53,10 @@
   <h4>Contato</h4>
 
   <a href="https://www.linkedin.com/in/sabrinamiranda-sm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"    alt="linkedin logo" target="_blank"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" target="_blank"/>
   <a/>
   
-  <a href="https://github.com/sabrina-miranda" target="_blank">
+  <a href="https://portfolio-sabrinamiranda.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-f78166?logo=flickr&style=for-the-badge" height="25" alt="Portfolio Sabrina Miranda" target="_blank">
   </a>
 </div>
