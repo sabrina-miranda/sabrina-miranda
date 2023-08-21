@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <h4>Visto Durante a Faculdade</h4>
+  <h4>Estudado Durante a Faculdade</h4>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo" />
