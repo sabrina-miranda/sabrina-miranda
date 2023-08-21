@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23f78166&size=100&center=true&vCenter=true&height=150&width=1600&lines=Olá!+Eu+sou+a+Sabrina+Miranda,;Seja+bem+vindo(a)+ao+meu+GitHub!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23f78166&size=100&center=true&vCenter=true&height=150&width=2000&lines=Olá!+Eu+sou+a+Sabrina+Miranda,;Seja+bem+vindo(a)+ao+meu+perfil+do+GitHub!" alt="Title"></img>
 </div>
 
 ###
