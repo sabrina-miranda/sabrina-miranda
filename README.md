@@ -22,7 +22,7 @@
 </div>
 
 ##
-
+<!---
 <div align="center">
   <h4>Conhecimento nas Tecnologias e Ferramentas</h4>
   
@@ -56,7 +56,7 @@
 </div>
 
 ##
-
+-->
 <div align="center">
   <h4>Contato</h4>
 
