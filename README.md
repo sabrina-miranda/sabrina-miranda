@@ -18,7 +18,7 @@
 
 <div align="center">
    <a href="https://github.com/sabrina-miranda">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sabrina-miranda.sabrina-miranda&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sabrina-miranda.sabrina-miranda" />
 </div>
 
 ##
