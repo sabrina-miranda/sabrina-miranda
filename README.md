@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"alt="linkedin logo" height="25" target="_blank">
   </a>
   
-  <a href="https://portfolio-sabrinamiranda.vercel.app/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-f78166?logo=flickr&style=for-the-badge" alt="Portfolio Sabrina Miranda" height="25" target="_blank">
   </a>
 </div>
